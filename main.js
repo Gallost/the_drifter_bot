@@ -56,4 +56,4 @@ client.on('message', message => {
     
 });
 
-client.login('Mmm, Mmm!');
+client.login('fake password');
